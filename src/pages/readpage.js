@@ -5,7 +5,6 @@ import styles from "@/styles/readPage.module.css";
 import Link from 'next/link'
 import React from'react'
 import {PageFlip} from 'page-flip';
-import ImageComponent from "@/components/image"
 
 
 export default function Pages() {
